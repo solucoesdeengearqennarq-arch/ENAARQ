@@ -2,7 +2,7 @@
 
 **Orgulho de nosso trabalho.** Construção, reformas e projetos em Salvador, Camaçari, Simões Filho e toda a Região Metropolitana.
 
-[**Visite o site**](https://solucoesdeengearqennarq-arch.github.io/ENAARQ---Site/) · [Instagram @enaarq](https://www.instagram.com/enaarq/) · [WhatsApp (71) 99670-2035](https://wa.me/5571996702035)
+[**Visite o site**](https://solucoesdeengearqennarq-arch.github.io/ENAARQ/) · [Instagram @enaarq](https://www.instagram.com/enaarq/) · [WhatsApp (71) 99670-2035](https://wa.me/5571996702035)
 
 ---
 
@@ -30,7 +30,7 @@ A ENAARQ foi criada para solucionar problemas e construir sonhos. Entendemos a n
 - Projeto arquitetônico e complementares para residência em condomínio fechado, Simões Filho (2020)
 - Projeto de alteração de fachada residencial, Camaçari (2022)
 
-Veja as fotos no [portfólio do site](https://solucoesdeengearqennarq-arch.github.io/ENAARQ---Site/#portfolio).
+Veja as fotos no [portfólio do site](https://solucoesdeengearqennarq-arch.github.io/ENAARQ/#portfolio).
 
 ## Atendimento
 Salvador · Camaçari · Simões Filho · Região Metropolitana de Salvador, Bahia
